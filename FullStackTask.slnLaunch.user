@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "FullStackTask_API\\FullStackTask_API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FullStackTaks_Web\\FullStackTask_Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

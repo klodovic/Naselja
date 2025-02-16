@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\models\\naseljedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\models\\naseljedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BD4408-B928-46AC-8DC3-E1A783C5ED40}|FullStackTask_API\\FullStackTask_API.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktask_api\\configuration\\mapperinitlizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BD4408-B928-46AC-8DC3-E1A783C5ED40}|FullStackTask_API\\FullStackTask_API.csproj|solutionrelative:fullstacktask_api\\configuration\\mapperinitlizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\data\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\data\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\data\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\data\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\configuration\\mapperinitlizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\configuration\\mapperinitlizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|c:\\users\\next design\\desktop\\koios2\\fullstacktask\\fullstacktaks_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68505B3E-2795-4F3D-B321-FECCC8CBE273}|FullStackTaks_Web\\FullStackTask_Web.csproj|solutionrelative:fullstacktaks_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NaseljeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Models\\NaseljeDTO.cs",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\Models\\NaseljeDTO.cs",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Models\\NaseljeDTO.cs",
+              "RelativeToolTip": "FullStackTaks_Web\\Models\\NaseljeDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:47:09.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Data\\IBaseService.cs",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\Data\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Data\\IBaseService.cs",
+              "RelativeToolTip": "FullStackTaks_Web\\Data\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:53:58.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "FullStackTaks_Web\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:46:37.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MapperInitlizer.cs",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Configuration\\MapperInitlizer.cs",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\Configuration\\MapperInitlizer.cs",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Configuration\\MapperInitlizer.cs",
+              "RelativeToolTip": "FullStackTaks_Web\\Configuration\\MapperInitlizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T23:11:28.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\appsettings.json",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\appsettings.json",
+              "RelativeToolTip": "FullStackTaks_Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T22:22:56.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Program.cs",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Program.cs",
+              "RelativeToolTip": "FullStackTaks_Web\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:05:59.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "FullStackTaks_Web\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-15T21:06:25.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FullStackTaks_Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T19:43:01.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "FullStackTaks_Web\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T19:06:09.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FullStackTaks_Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwDcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T19:05:23.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Data\\Repository.cs",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\Data\\Repository.cs",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Data\\Repository.cs",
+              "RelativeToolTip": "FullStackTaks_Web\\Data\\Repository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:59:21.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\Data\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Data\\IRepository.cs",
+              "RelativeToolTip": "FullStackTaks_Web\\Data\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:56:34.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Data\\BaseService.cs",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\Data\\BaseService.cs",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Data\\BaseService.cs",
+              "RelativeToolTip": "FullStackTaks_Web\\Data\\BaseService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAvwD0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:39:58.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapperInitlizer.cs",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTask_API\\Configuration\\MapperInitlizer.cs",
+              "RelativeDocumentMoniker": "FullStackTask_API\\Configuration\\MapperInitlizer.cs",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTask_API\\Configuration\\MapperInitlizer.cs",
+              "RelativeToolTip": "FullStackTask_API\\Configuration\\MapperInitlizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:45:28.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FullStackTaks_Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Next Design\\Desktop\\Koios2\\FullStackTask\\FullStackTaks_Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FullStackTaks_Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:52:18.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+﻿
+@model IEnumerable<FullStackTask_Web.Model.NaseljeDTO>
+
+<div class="container">
+    <table class="table table-hover mt-3">
+        <thead>
+            <tr>
+                <th scope="col">Naziv</th>
+                <th scope="col">Poštanski broj</th>
+                <th scope="col">Država</th>
+                <th class="text-center" scope="col">Operacije</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="table-primary">
+                    <td class="align-middle">@item.Drzava.Naziv</td>
+                    <td class="align-middle">@item.PostanskiBroj</td>
+                    <td class="align-middle">@item.Naziv</td>
+                    <td class="text-center">
+                        <button type="button" class="btn btn-sm btn-warning edit-btn" 
+                            data-id = "@item.Id"
+                            data-drzava = "@item.Drzava.Naziv"
+                            data-postanskiBroj = "@item.PostanskiBroj"
+                            data-naziv = "@item.Naziv"
+                            data-drzavaId = "@item.Drzava.Id"
+                            data-bs-toggle = "modal" 
+                            data-bs-target = "#exampleModal">
+                            Uredi
+                        </button>
+                        <button type="button" class="btn btn-sm btn-danger delete-btn">Obriši</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    @ViewBag.naseljeResponse
+    <div class="row">
+        <div class="col-12">
+            <h6>Ukupan broj zapisa: @ViewBag.TotalRecords</h6>
+            <button type="submit" 
+                    class="btn btn-sm btn-success create-btn float-end"
+                    data-bs-toggle="modal"
+                    data-bs-target="#createModal">Dodaj naselje</button>
+        </div>
+    </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Uredi naselje</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Zatvori"></button>
+            </div>
+            <div class="modal-body">
+                <form id="editNaseljeForm">
+                    <input type="hidden" id="naseljeId" />
+                    <div class="form-group">
+                        <label for="naziv">Naziv:</label>
+                        <input type="text" id="naziv" class="form-control" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="postanskiBroj">Poštanski broj:</label>
+                        <input type="text" id="postanskiBroj" class="form-control" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="drzava">Država:</label>
+                        <select id="drzava" class="form-control">
+                            @foreach (var drzava in ViewBag.Drzave)
+                            {
+                                <option value="@drzava.Id">@drzava.Naziv</option>
+                            }
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Zatvori</button>
+                <button type="submit" class="btn btn-primary">Spremi promjene</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Create Modal -->
+<div class="modal fade" id="createModal" tabindex="-1" aria-labelledby="createModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="createModalLabel">Dodaj novo naselje</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Zatvori"></button>
+            </div>
+            <div class="modal-body">
+                <form id="createNaseljeForm">
+                    <div class="form-group">
+                        <label for="naziv">Naziv:</label>
+                        <input type="text" id="naziv" name="Naziv" class="form-control" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="postanskiBroj">Poštanski broj:</label>
+                        <input type="text" id="postanskiBroj" name="PostanskiBroj" class="form-control" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="drzava">Država:</label>
+                        <select id="drzava" name="DrzavaId" class="form-control">
+                            @foreach (var drzava in ViewBag.Drzave)
+                            {
+                                <option value="@drzava.Id">@drzava.Naziv</option>
+                            }
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Zatvori</button>
+                <button type="button" class="btn btn-primary" id="saveNaseljeBtn">Spremi</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
